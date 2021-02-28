@@ -1,2 +1,2 @@
 # num_methods
-num_methods course, third semester 
+numerical methods course, third semester 
